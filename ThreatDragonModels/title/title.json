@@ -7,9 +7,14 @@
     "contributors": [],
     "diagrams": [
       {
-        "title": "dfd",
+        "title": "DFD",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
+      },
+      {
+        "title": "another",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ],
     "reviewer": "none"
