@@ -1,14 +1,11 @@
 {
   "summary": {
     "title": "Exercise 1",
-    "description": "The nature of the application is some kind of bulletin board.\nThere is a web server and db server pointing to a SQL database. The servers and data are hosted in the corporate data center.\nUsers connect using web browser.\nAnonymous users can browse through information, registered users can post content.\nSome functionality is only accessible through admin accounts. Admins don't have to be on the corporate network,\ncan connect from anywhere."
+    "description": "The nature of the application is some kind of bulletin board.\nThere is a web server and db server pointing to a SQL database. The servers and data are hosted in the corporate data center.\nUsers connect using web browser.\nAnonymous users can browse through information, registered users can post content.\nSome functionality is only accessible through admin accounts. Admins don't have to be on the corporate network,\ncan connect from anywhere.",
+    "owner": "me"
   },
   "detail": {
-    "contributors": [
-      {
-        "name": "me"
-      }
-    ],
+    "contributors": [],
     "diagrams": [
       {
         "title": "DFD",
